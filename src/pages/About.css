@@ -40,3 +40,8 @@
   width: 500px;
   height: auto;
 }
+
+.mdc-card {
+  height: 350px;
+  width: 350px;
+}
